@@ -11,6 +11,6 @@
 <div>
   <h2>✨ Who are we?</h2>
   <p>
-    Arrange is a developer agency building open source protocols and revenue generating products designed to provide value and help grow the Solana ecosystem. Additionally, we contribute to a variety of high-impact open-source repositories on Solana to help support public goods pushing the ecosystem forward.
+    Arrange is a collective of developers building software at the intersection of various emerging technologies. To put the corporate speak aside, we build stuff that we find cool and useful. 
   </p>
 </div>
